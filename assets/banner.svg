@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="LUNA F. R. — Pentester, Cybersecurity Analyst, Web and API Security, Purple Team — 666">
+  <title>LUNA F. R. // PENTESTER // CYBERSECURITY // 666</title>
+
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.64" r="0.62">
+      <stop offset="0" stop-color="#ff0033" stop-opacity="0.20"/>
+      <stop offset="0.45" stop-color="#8b0000" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff0033" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#6e0000"/>
+      <stop offset="0.5" stop-color="#a30000"/>
+      <stop offset="0.65" stop-color="#6e0000"/>
+      <stop offset="1" stop-color="#ff0033" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="1" fill="#ffffff" opacity="0.02"/>
+    </pattern>
+    <clipPath id="sliceA">
+      <rect x="0" y="112" width="1280" height="6"/>
+      <rect x="0" y="138" width="1280" height="4"/>
+      <rect x="0" y="160" width="1280" height="7"/>
+    </clipPath>
+    <clipPath id="sliceB">
+      <rect x="0" y="124" width="1280" height="3"/>
+      <rect x="0" y="150" width="1280" height="3"/>
+      <rect x="0" y="168" width="1280" height="4"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="320" fill="#050505"/>
+  <rect width="1280" height="320" fill="url(#scan)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <!-- techno-sigil -->
+  <g opacity="0.055" stroke="#ff0033" fill="none" stroke-width="1.5">
+    <polygon points="640,48 749,111 749,237 640,300 531,237 531,111"/>
+    <circle cx="640" cy="174" r="92" stroke-dasharray="3 9"/>
+    <circle cx="640" cy="174" r="128"/>
+  </g>
+
+  <!-- frame -->
+  <rect x="12" y="12" width="1256" height="296" fill="none" stroke="#240000" stroke-width="2"/>
+  <path d="M12 34 V12 H34" fill="none" stroke="#ff2b2b" stroke-width="2"/>
+  <path d="M1268 34 V12 H1246" fill="none" stroke="#ff2b2b" stroke-width="2"/>
+  <path d="M12 286 V308 H34" fill="none" stroke="#ff2b2b" stroke-width="2"/>
+  <path d="M1268 286 V308 H1246" fill="none" stroke="#ff2b2b" stroke-width="2"/>
+
+  <!-- top labels -->
+  <text x="36" y="46" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="15" fill="#9a9a9a">root@lunatic:~$ ./identity --reveal</text>
+  <text x="1244" y="46" text-anchor="end" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="15" fill="#6e0000">LUNATIC SYSTEM // v6.6.6</text>
+
+  <!-- glitch layers -->
+  <g clip-path="url(#sliceA)">
+    <text x="645" y="167" text-anchor="middle" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="92" font-weight="700" letter-spacing="6" fill="#ff0033" opacity="0.85">LUNA F. R.</text>
+  </g>
+  <g clip-path="url(#sliceB)">
+    <text x="635" y="169" text-anchor="middle" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="92" font-weight="700" letter-spacing="6" fill="#ff2d78" opacity="0.40">LUNA F. R.</text>
+  </g>
+  <text x="643" y="171" text-anchor="middle" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="92" font-weight="700" letter-spacing="6" fill="#8b0000" opacity="0.55">LUNA F. R.</text>
+  <text x="640" y="168" text-anchor="middle" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="92" font-weight="700" letter-spacing="6" fill="#f2f2f2">LUNA F. R.</text>
+
+  <!-- datamosh fragments -->
+  <rect x="298" y="150" width="22" height="5" fill="#ff0033" opacity="0.45"/>
+  <rect x="958" y="158" width="16" height="4" fill="#ff2d78" opacity="0.40"/>
+  <rect x="884" y="112" width="30" height="3" fill="#8b0000" opacity="0.60"/>
+
+  <!-- subtitle -->
+  <text x="640" y="224" text-anchor="middle" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="20" letter-spacing="3" font-weight="600">
+    <tspan fill="#ff2b2b">[&#160;</tspan>
+    <tspan fill="#d9d9d9">PENTESTER</tspan>
+    <tspan fill="#6e0000">&#160;//&#160;</tspan>
+    <tspan fill="#d9d9d9">CYBERSECURITY ANALYST</tspan>
+    <tspan fill="#6e0000">&#160;//&#160;</tspan>
+    <tspan fill="#d9d9d9">WEB &amp; API</tspan>
+    <tspan fill="#6e0000">&#160;//&#160;</tspan>
+    <tspan fill="#d9d9d9">PURPLE TEAM</tspan>
+    <tspan fill="#ff2b2b">&#160;]</tspan>
+  </text>
+
+  <!-- underline -->
+  <rect x="592" y="243" width="96" height="2" fill="#8b0000"/>
+  <rect x="584" y="241" width="4" height="6" fill="#ff2d78"/>
+  <rect x="692" y="241" width="4" height="6" fill="#ff2d78"/>
+
+  <!-- bottom labels -->
+  <text x="36" y="296" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="14" fill="#6e0000">[ ACCESS: ROOT ] // SYSTEM ONLINE</text>
+  <text x="1244" y="296" text-anchor="end" font-family="'DejaVu Sans Mono','Liberation Mono',Menlo,Consolas,monospace" font-size="14" fill="#6e0000">CYBERSEC // 666</text>
+</svg>
